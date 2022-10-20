@@ -1,0 +1,15 @@
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/bin/Debug/net6.0/CourseApp.Console
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/bin/Debug/net6.0/CourseApp.Console.deps.json
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/bin/Debug/net6.0/CourseApp.Console.runtimeconfig.json
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/bin/Debug/net6.0/CourseApp.Console.dll
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/bin/Debug/net6.0/CourseApp.Console.pdb
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.csproj.AssemblyReference.cache
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.AssemblyInfoInputs.cache
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.AssemblyInfo.cs
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.csproj.CoreCompileInputs.cache
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.dll
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/refint/CourseApp.Console.dll
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.pdb
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/CourseApp.Console.genruntimeconfig.cache
+/Users/sefakeremkocakoglu/Projects/CourseApp/CourseApp.Console/obj/Debug/net6.0/ref/CourseApp.Console.dll
