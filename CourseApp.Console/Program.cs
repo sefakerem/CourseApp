@@ -1,6 +1,66 @@
 ﻿
-#region Operatörler
+#region MantıksalOperatörlerVeKararYapıları
+/*
+  var yas = 20;
+   var ehliyetAlabilirMiyim = yas >= 18 ? "Ehliyet alabilir" : "Ehliyet alamaz";
+Console.WriteLine(ehliyetAlabilirMiyim);
+  switch(6)
+{
+    case 2:
+        Console.WriteLine("İki");
+        break;
+    case 3:
+        Console.WriteLine("Üç");
+        break;
+        default:
+            Console.WriteLine("Burada bu sayıdan yok");
+            break;
+}
+ if(10==11 && 10 != 11 ) //false true
+{
+    Console.WriteLine("merhaba");
+}
+//veya(||) operatör olduğunda true olduğu an içeriye girer
+//ve(&&) operatör olduğunda false olduğun an içeriye girmez
+  var yas = 18;
+if(yas >= 18)
+{
+    Console.WriteLine("Ehliyet alabilir");
+}else
+{
+    Console.WriteLine("Ehliyet alamaz");
+}
+ *if(17>18) //false
+{
+    Console.WriteLine("17 18den küçüktür");
+}
+else if(20> 25) //true
+{
+    Console.WriteLine("20 25ten küçüktür");
+}
+else
+{
+    Console.WriteLine("Hiç bir koşul sağlanmadı");
+}
 
+ *
+ *  değişkenler karar yapısı
+  Mantıksal Operatörler:
+ && (koşullu ve) Mantıksal Operatörü
+ || (koşullu veya) Mantıksal Operatörü
+
+  İlişkisel Operatör:
+ Küçüktür <
+ Büyüktür >
+ Küçük Eşittir <=
+ Büyük Eşittir >=
+ Eşittir ==
+ Eşit Değildir !=
+ */
+
+
+#endregion
+#region Operatörler
 /*
  var cevap = 4!=4;
 Console.WriteLine(cevap);
@@ -21,20 +81,9 @@ Console.WriteLine(cevap);
  *= Operatörü
  /= Operatörü
 
- İlişkisel Operatör:
- Küçüktür <
- Büyüktür >
- Küçük Eşittir <=
- Büyük Eşittir >=
- Eşittir ==
- Eşit Değildir !=
 
- Mantıksal Operatörler:
- & (ve) Mantıksal Operatörü
- | (veya) Mantıksal Operatörü
- && (koşullu ve) Mantıksal Operatörü
- || (koşullu veya) Mantıksal Operatörü
- ! (değil) Mantıksal Operatörü
+
+
 */
 
 
