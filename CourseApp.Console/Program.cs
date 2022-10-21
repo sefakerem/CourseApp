@@ -1,4 +1,34 @@
 ﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#region Diziler
+/*
+ int sayi = 1;
+int[] sayilar ={1,2,3};
+
+sayilar[0] = 4;
+
+char[] harfler = {'a','b','c','d'};
+string[] sayilar2 = {"Bir","İki","Üç"};
+Console.WriteLine(sayilar.GetLength(0));
+ */
+#endregion
+
+
+
 #region MantıksalOperatörlerVeKararYapıları
 /*
   var yas = 20;
