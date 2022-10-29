@@ -1,9 +1,118 @@
-﻿
+﻿Personel personel = new Personel();
+personel.Ad = "Sefa";
+personel.Soyad = "Koçakoğlu";
+personel.SicilNo = 1;
+
+Personel personel1 = new Personel();
+personel1.Ad = "Kerem";
+personel1.Soyad = "Ergüner";
+personel1.SicilNo = 2;
+
+personel.Bilgi();
+personel1.Bilgi();
+
+
+class Insan
+{
+    public string Ad;
+    public string Soyad;
+    public bool EvliMi;
+}
+class Personel:Insan
+{
+    public int SicilNo;
+    public Personel()
+    {
+        Console.WriteLine("Kurucu metod çalıştı");
+    }
+    public void Bilgi()
+    {
+        Console.WriteLine($"Personelin Adı ve Soyadı {Ad} {Soyad}. Sicil No : {SicilNo} ");
+    }
+}
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#region Fonksiyonlar
+/*
+ * string cevap = Topla("Merhaba ","Dunya");
+Console.WriteLine(cevap);
+string Topla(string a,string b)
+{
+   return a+b;
+}
+
+Yaz("Merhaba");
+Yaz("Sefa");
+void Yaz(string yazi)
+{
+    Console.WriteLine(yazi);
+}
+ */
+#endregion
+
+
+#region Donguler
+/*
+
+
+
+
+ for(int i = 1; i<10 ;i++)
+{
+    if(i==5)
+    {
+        break;
+        continue;
+
+    }
+    Console.WriteLine(i);
+}
+ * for(int i = 0;i<sayilar.Length;i++)
+{
+    Console.WriteLine(sayilar[i]);
+}
+
+foreach (var sayi in sayilar)
+{
+    Console.WriteLine(sayi);
+}
+ int i = 0;
+do
+{
+    Console.WriteLine("Koşul sağlanmıyor fakat buna rağmen çalışıyorum " + i);
+    i++;
+}while(i<10);
+ int i =2;
+while(i<=100)
+{
+    Console.WriteLine(i);
+    i+=2;
+}
+ for(int i = 2;i<=100;i+=2)
+{
+    Console.WriteLine(i);
+}
+ */
+#endregion
 
 
 
@@ -17,12 +126,11 @@
 #region Diziler
 /*
  int sayi = 1;
-int[] sayilar ={1,2,3};
-
+string[] sayilar2 = {"Bir","İki","Üç"};
 sayilar[0] = 4;
 
 char[] harfler = {'a','b','c','d'};
-string[] sayilar2 = {"Bir","İki","Üç"};
+
 Console.WriteLine(sayilar.GetLength(0));
  */
 #endregion

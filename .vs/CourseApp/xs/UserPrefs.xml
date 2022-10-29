@@ -1,15 +1,24 @@
-﻿<Properties StartupConfiguration="{26D6D36E-F618-41D5-B58E-17DFB3827225}|Default">
+﻿<Properties StartupConfiguration="{C7C8A736-3D4C-49F3-AA1D-987A2D95F7B3}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CourseApp.Console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CourseApp.Console/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseApp.Maui/App.xaml.cs">
     <Files>
-      <File FileName="CourseApp.Console/Program.cs" Line="9" Column="1" />
+      <File FileName="CourseApp.Maui/MauiProgram.cs" Line="9" Column="17" />
+      <File FileName="CourseApp.Maui/App.xaml.cs" Line="9" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CourseApp" expanded="True">
             <Node name="CourseApp.Console" expanded="True" />
+            <Node name="CourseApp.Maui" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,9 +27,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CourseApp.Maui PreferredExecutionTarget="Android.Pixel_4_XL_API_28" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CourseApp.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_XL_API_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
 </Properties>
